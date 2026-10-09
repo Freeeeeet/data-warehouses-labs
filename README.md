@@ -6,6 +6,7 @@
 
 - `data-vault/01_schema_and_data.sql` — документированный SQL: 3NF, Data Vault и учебные данные.
 - `data-vault/02_verify.sql` — восстановление графика, сравнение моделей и пример истории изменений.
+- `data-vault/3nf.svg`, `dv.svg` и PNG-копии — даталогические диаграммы.
 - `mongodb/01_examples.js` — все операции из методички MongoDB №1.
 - `neo4j/01_lecture.cypher` — примеры лекции, адаптированные к Neo4j 5.
 - `neo4j/02_social_graph.cypher` — социальный граф: 14 узлов и 36 связей.
