@@ -1,0 +1,56 @@
+created
+"Mike"
+labels, attributes
+["LectureDemo", "Person"], {name: "Mike"}
+["LectureDemo", "Person"], {name: "Anna"}
+["LectureDemo", "Person"], {name: "Alex"}
+["LectureDemo", "Movie"], {title: "Matrix"}
+["LectureDemo", "Movie"], {title: "The Terminator"}
+source, relation, target
+"Mike", "MARRIED", "Anna"
+"Mike", "FRIENDS", "Alex"
+"Alex", "FAVORITE", "The Terminator"
+found.name, elementId(found)
+"Mike", "4:ed58ece6-db03-4ad6-aab7-e74f1cdbc11d:0"
+n.name, elementId(n)
+"Mike", "4:ed58ece6-db03-4ad6-aab7-e74f1cdbc11d:0"
+"Anna", "4:ed58ece6-db03-4ad6-aab7-e74f1cdbc11d:1"
+n.name
+"профессия"
+n.name
+"Alex"
+"Anna"
+"Mike"
+"бежать"
+"воровать"
+"двигаться"
+"изолированный пример"
+"парить"
+"профессия"
+"прямой"
+"толстый"
+"форма"
+n.name
+"бежать"
+"парить"
+"прямой"
+"толстый"
+lecture_nodes
+14
+lecture_relationships
+8
+n.name, a.name
+"воровать", "профессия"
+isolated
+"Matrix"
+"изолированный пример"
+isolated_after_delete
+0
+shortest_path
+["бежать", "двигаться", "парить"]
+typed_shortest_paths
+["прямой", "форма", "толстый"]
+n.name, internal_id
+"профессия", 12
+lecture_nodes_after_cleanup
+0

@@ -1,0 +1,4 @@
+PostgreSQL 16.14 (Debian 16.14-1.pgdg13+1) on aarch64-unknown-linux-gnu, compiled by gcc (Debian 14.2.0-19) 14.2.0, 64-bit
+7.0.43
+name, versions
+"Neo4j Kernel", ["5.26.31"]
